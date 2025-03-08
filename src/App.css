@@ -156,6 +156,8 @@
   align-items: center;
   }
 
+  /*==============breakpoint===============*/
+
   @media screen and (max-width: 992px){
     .container{
       margin-left: var(--mb-1-5);
@@ -173,8 +175,16 @@
   }
   
   @media screen and (max-width: 768px){
+    body{
+      margin: 0 0 var(--header-hight) 0;
+    }
+    
     .section {
       padding: 2rem 0 4rem;
+    }
+
+    .section__subbtitle{
+      margin-bottom: var(--mb-3);
     }
   }
 

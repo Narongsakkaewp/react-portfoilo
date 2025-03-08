@@ -57,15 +57,9 @@ const Data = () => {
         </h1>
 
         <h3 className="home__subtitle"  style={{ fontFamily: '"Noto Sans Thai", sans-serif' }}>Frontend Developer</h3>
-        <p className="home__description"> I'm a student majoring in electronics computer 
-                                            technology. In addition to my understanding of 
-                                            database systems and website design, I am proficient in 
-                                            web development using languages like HTML, CSS, and 
-                                            JavaScript. I am interested in other roles such as 
-                                            Business Analyst and System Engineer. Inorder to 
-                                            satisfy the demands of my team and organization, I'm 
-                                            dedicated to lifelong learning and skill development.</p>
-
+        <p className="home__description"> I am a student studying in electronics computer technology.  
+                                          I am passionate about web development and am interested in various professions such as Business Analyst.  
+                                          I am dedicated to lifelong learning and skill improvement.</p>
         <a href="#contact" className="button button--flex">
             Say Hello
             <svg

@@ -56,12 +56,13 @@ const Data = () => {
 
         </h1>
 
-        <h3 className="home__subtitle"  style={{ fontFamily: '"Noto Sans Thai", sans-serif' }}>Frontend Developer</h3>
+        <h3 className="home__subtitle"  style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}>Website Developer</h3>
+        {/*<h3 className="home__subtitle"  style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}>นักพัฒนาเว็บไซต์</h3>*/}
         <p className="home__description"> I am a student studying in electronics computer technology.  
                                           I am passionate about web development and am interested in various professions such as Business Analyst.  
                                           I am dedicated to lifelong learning and skill improvement.</p>
-        <a href="#contact" className="button button--flex">
-            Say Hello
+        <a href="#contact" className="button button--flex" style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}>
+            Say Hello 
             <svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"

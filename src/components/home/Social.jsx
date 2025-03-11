@@ -8,11 +8,11 @@ const Social = () => {
         </a>
 
         <a href="https://github.com/Narongsakkaewp" className="home__socail-icon" rel="noopener noreferrer" target="_blank">
-            <i class="uil uil-github"></i>
+            <i class="uil uil-github-alt"></i>
         </a>
 
         <a href="https://web.facebook.com/narongsak.kaewprathum" className="home__socail-icon" rel="noopener noreferrer" target="_blank">
-            <i class="uil uil-facebook"></i>
+            <i class="uil uil-facebook-f"></i>
         </a>
 
         <a href="https://drive.google.com/drive/folders/1gHgI2G4pBEoL5JDCMw06dJlt7Ua6rSyf?usp=sharing" className="home__socail-icon" rel="noopener noreferrer" target="_blank">

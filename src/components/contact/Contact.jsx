@@ -57,7 +57,7 @@ const Contact = () => {
                         <h3 className="contact__card-title">Messenger</h3>
                         <span className="contact__card-data">Narongsak Kaewprathum</span>
 
-                        <a href="https://web.facebook.com/narongsak.kaewprathum/" 
+                        <a href="https://www.messenger.com/" 
                          className="contact__button">Write me {""}
                         <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                     </div>
@@ -75,7 +75,7 @@ const Contact = () => {
                         type="text" 
                         name="name"
                         className="contact__form-input"
-                        placeholder="Insert your name" style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}
+                        placeholder="Your name" style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}
                         />
                     </div>
 
@@ -85,7 +85,7 @@ const Contact = () => {
                         type="email" 
                         name="email"
                         className="contact__form-input"
-                        placeholder="Insert your email" style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}
+                        placeholder="Your email" style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}
                         />
                     </div>
 
@@ -96,7 +96,7 @@ const Contact = () => {
                         cols="30" 
                         rows="10" 
                         className="contact__form-input" 
-                        placeholder="Write your message so i can contact you back." 
+                        placeholder="Write your message here. So i can contact you back." 
                         style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}></textarea>
                     </div>
 

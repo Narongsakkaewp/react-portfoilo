@@ -8,7 +8,7 @@ const Qualification = () => {
     }
 
     return (
-    <section className="qualification section">
+    <section className="qualification section" id="qualification">
         <h2 className="section__title" style={{textAlign: "center",margin: "0 auto"}}>Qualification</h2>
         <span className="section__subtitle">My Journey</span>
 
@@ -29,7 +29,7 @@ const Qualification = () => {
                 <div className={toggleState === 1 ? "qualification__content qualification__content-active" : "qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Bachelor of Industrial Technology (B.Ind .Tech.)</h3>
+                            <h3 className="qualification__title">Bachelor of Industrial Technology<br/>(B.Ind .Tech.)</h3>
                             <span className="qualification__subtitle">King Mongkut's University of Technology North Bangkok (KMUTNB)</span>
                             <div className="qualification__calendar">
                                 <i className="uil uil-calendar-alt"></i> 2023 - Present

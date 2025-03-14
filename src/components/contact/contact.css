@@ -32,6 +32,13 @@
     margin-bottom: var(--mb-0-25);
 }
 
+.contact__card-icon-th {
+    font-size: 1rem;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 2.5px;
+}
+
 .contact__card-title,
 .contact__card-data{
     font-size: var(--small-font-size);

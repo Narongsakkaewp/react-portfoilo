@@ -35,7 +35,7 @@ const Footer = () => {
                 </a>
             </div>
 
-            <span className="footer__copy">&#169; Narongsak Kaew. All rigths reserved</span>
+            <span className="footer__copy">&#169; Narongsak Kaew. All rigths reserved. Base in Thailand <br/> 6603052413159.</span>
         </div>
     </footer>
   )

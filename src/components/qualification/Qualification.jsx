@@ -81,7 +81,7 @@ const Qualification = () => {
                         </div>
                         <div>
                             <h3 className="qualification__title" style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}>Secondary School</h3>
-                            <span className="qualification__subtitle">Wat Na Mai Community School</span>
+                            <span className="qualification__subtitle">Wat Na Mai School</span>
                             <div className="qualification__calendar">
                                 <i className="uil uil-calendar-alt"></i> 2015 - 2017
                             </div>

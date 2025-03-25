@@ -15,12 +15,16 @@ const Social = () => {
             <i class="uil uil-facebook-f"></i>
         </a>
 
-        <a href="https://drive.google.com/drive/folders/1gHgI2G4pBEoL5JDCMw06dJlt7Ua6rSyf?usp=sharing" className="home__socail-icon" rel="noopener noreferrer" target="_blank">
+        <a href="https://drive.google.com/drive/folders/1gHgI2G4pBEoL5JDCMw06dJlt7Ua6rSyf?usp=drive_link" className="home__socail-icon" rel="noopener noreferrer" target="_blank">
             <i class="uil uil-google-drive-alt"></i>
         </a>
 
         <a href="https://api.whatsapp.com/send?phone=66627802404&text=Hello, more information!" className="home__socail-icon" rel="noopener noreferrer" target="_blank">
             <i class="uil uil-whatsapp"></i>
+        </a>
+
+        <a href="https://discordapp.com/851116826682982441" className="home__socail-icon" rel="noopener noreferrer" target="_blank">
+        <i class="uil uil-discord"></i>
         </a>
 
         <a href="https://open.spotify.com/user/h28uorbk5rwn5nfigj6ht3u90?si=8d9dce03b6564b75" className="home__socail-icon" rel="noopener noreferrer" target="_blank">

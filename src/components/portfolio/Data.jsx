@@ -1,5 +1,6 @@
 import Work1 from '../../assets/images/work1.jpg'
 import Work2 from '../../assets/images/work2.png'
+import Work3 from '../../assets/images/work3.png'
 export const projectData = [
     {
         id: 1,
@@ -18,8 +19,19 @@ export const projectData = [
         img: Work2,
         category: 'Web',
         link: 'https://www.google.com'
+    },
+
+    {
+        id: 3,
+        classname: 'work__card',
+        title: 'Finding Tutor Website.',
+        description: 'โครงงานเรื่องการพัฒนาเว็บไซต์หาติวเตอร์',
+        detail: '**work in progress**',
+        img: Work3,
+        category: 'Web',
+        link: 'https://github.com/Narongsakkaewp/Finding-Tutor-Website.git'
     }
-    ]
+]
 
 export const projectCategory = [
     {

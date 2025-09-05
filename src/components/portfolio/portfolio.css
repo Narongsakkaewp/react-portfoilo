@@ -52,10 +52,16 @@
 
 .work__description{
     font-size: var(--small-font-size);
-    margin-bottom: var(--mb-1);
+    
 }
 
-.work__title, .work__description{
+.work__detail{
+    font-size: var(--small-font-size);
+    margin-bottom: var(--mb-1);
+    color: orangered;
+}
+
+.work__title, .work__description, .work__detail{
     text-align: center;
 }
 

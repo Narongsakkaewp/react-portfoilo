@@ -75,7 +75,7 @@ const Gallery = () => {
                         >
                             <img
                                 src={item.image}
-                                alt={`Artwork ${index + 1}`}
+                                alt={`narongsak's photography ${index + 1}`}
                                 className="gallery__img"
                                 loading="lazy" // Lazy loading for performance
                                 onContextMenu={handleContextMenu} // Disable right click

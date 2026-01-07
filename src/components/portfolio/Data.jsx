@@ -9,7 +9,7 @@ export const projectData = [
         description: 'โครงการเรื่องพรมเช็ดเท้าผลิตกระแสไฟฟ้าด้วยเพียโซอิเล็กทริกเพื่อสำรองไฟฟ้าสำหรับครัวเรือน',
         img: Work1,
         category: 'Arduino',
-        link: 'hhttps://drive.google.com/drive/folders/1gHgI2G4pBEoL5JDCMw06dJlt7Ua6rSyf?usp=drive_link'
+        link: 'https://drive.google.com/drive/folders/1gHgI2G4pBEoL5JDCMw06dJlt7Ua6rSyf?usp=drive_link'
     },
     {
         id: 2,

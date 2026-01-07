@@ -116,6 +116,6 @@
     }
 
     .nav__list{
-        columns-gap: 0;
+        column-gap: 0;
     }
 }

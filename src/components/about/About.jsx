@@ -1,7 +1,8 @@
 import React from 'react';
 import './about.css';
 import AboutImg from '../../assets/images/PIC5.jpg';
-import CV from '../../assets/pdf/narongsak.pdf';
+// import CV from '../../assets/pdf/narongsak.pdf';
+import CV from '../../assets/pdf/CV_Narongsak.pdf';
 import Info from './Info';
 
 const About = () => {
@@ -26,7 +27,7 @@ const About = () => {
                     and System Engineer, and I am committed to contributing to team success with my analytical and problem-solving skills. 
                     With a track record of achievements in public speaking, software innovation, and embedded systems, 
                     I am excited to bring my expertise and enthusiasm to new and challenging opportunities.</p>
-                <a download="" href={CV} className="button button--flex">My Resume Here
+                <a download="" href={CV} className="button button--flex">My CV Here
                 <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"

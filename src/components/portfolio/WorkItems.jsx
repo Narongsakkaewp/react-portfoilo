@@ -7,7 +7,7 @@ const WorkItems = ({ item }) => {
       <h3 className="work__title">{item.title}</h3>
       <p className="work__description" style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}>{item.description}</p>
       <p className="work__detail" style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}>{item.detail}</p>
-      <a href={item.link} className="work__button" target="_blank" rel="noopener noreferrer">
+      <a href="" className="work__button">
         Read More <i className='bx bx-right-arrow-alt work__button-icon'></i>
       </a>
     </div>

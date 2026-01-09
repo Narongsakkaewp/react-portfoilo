@@ -32,16 +32,11 @@ const About = () => {
         <div className="about__data">
           <Info />
 
-          <p className="about__description">Hello! My name is Narongsak Kaewprathum,
-            and I am an electronics computer technology student at King Mongkut's University of Technology North Bangkok (KMUTNB)
-            Thailand with a strong foundation in web development
-            and database systems. I excel in using programming languages such as HTML, CSS, SQL, and Node.js,
-            along with tools like Microsoft Azure and MySQL. My passion for continuous learning has driven me
-            to achieve a CEFR Level B1 in English, and I am dedicated to refining my skills further to meet the
-            evolving demands of the tech industry. I have experience in various roles, including Business Analyst
-            and System Engineer, and I am committed to contributing to team success with my analytical and problem-solving skills.
-            With a track record of achievements in public speaking, software innovation, and embedded systems,
-            I am excited to bring my expertise and enthusiasm to new and challenging opportunities.</p>
+          <p className="about__description">"Hi, I'm Narongsak Kaewprathum (Toei).
+            I am a senior student at KMUTNB with a passion for Web Development and Database Systems. I love building modern, user-friendly websites using React, Node.js, and SQL.
+            But I’m not just about code—I’m also an avid Photographer. I believe that writing clean code and composing a beautiful photo both require the same thing: Creativity and Attention to Detail.
+            This website is my digital playground where I showcase my Projects, Education, and Photography Gallery. I am currently open to opportunities in Website Developer, Business Analyst, or Business roles
+            also HR. Welcome to my portfolio—I hope you enjoy exploring my work!"</p>
 
           {/* CV Selection Button */}
           <div className="about__buttons" ref={dropdownRef}>

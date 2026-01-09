@@ -33,7 +33,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">"Hi, I'm Narongsak Kaewprathum (Toei).
-            I am a senior student at KMUTNB with a passion for Web Development and Database Systems. I love building modern, user-friendly websites using React, Node.js, and SQL.
+            I am a final-year student in Electronics Computer Technology at KMUTNB with a passion for Web Development and Database Systems. I love building modern, user-friendly websites using React, Node.js, and SQL.
             But I’m not just about code—I’m also an avid Photographer. I believe that writing clean code and composing a beautiful photo both require the same thing: Creativity and Attention to Detail.
             This website is my digital playground where I showcase my Projects, Education, and Photography Gallery. I am currently open to opportunities in Website Developer, Business Analyst, or Business roles
             also HR. Welcome to my portfolio—I hope you enjoy exploring my work!"</p>

@@ -56,7 +56,7 @@ const Data = () => {
 
       </h1>
 
-      <h3 className="home__subtitle" style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}>Website Developer</h3>
+      <h3 className="home__subtitle" style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}>Welcome to My Website!</h3>
       {/*<h3 className="home__subtitle"  style={{ fontFamily: 'poppins, "Noto Sans Thai", sans-serif' }}>นักพัฒนาเว็บไซต์</h3>*/}
       {/* <p className="home__description"> I am a final-year student in Electronics Computer Technology. Skilled in Frontend Development (React, JavaScript, CSS, Node and SQL Database) and IT Support. A creative problem-solver who combines technical expertise with an artistic perspective as an avid photographer.
         Open to opportunities in Web Development, Business Analysis, or Digital Marketing, aiming to deliver impactful digital experiences.
